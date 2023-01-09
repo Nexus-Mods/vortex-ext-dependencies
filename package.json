@@ -1,0 +1,14 @@
+{
+  "name": "vortex-ext-dependencies",
+  "version": "1.0.0",
+  "description": "dummy package to make it easier to update common dependencies across many vortex extensions",
+  "dependencies": {
+    "babel-loader": "^9.1.2",
+    "bluebird": "^3.7.2",
+    "i18next": "^8.4.3",
+    "ts-loader": "^9.4.2",
+    "vortex-api": "Nexus-Mods/vortex-api",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
