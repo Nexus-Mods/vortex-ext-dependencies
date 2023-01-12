@@ -1,8 +1,9 @@
 {
   "name": "vortex-ext-dependencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dummy package to make it easier to update common dependencies across many vortex extensions",
   "dependencies": {
+    "@types/bluebird": "^3.5.38",
     "babel-loader": "^9.1.2",
     "bluebird": "^3.7.2",
     "i18next": "^8.4.3",
